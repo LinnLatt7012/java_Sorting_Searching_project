@@ -1,4 +1,4 @@
-#:school::school: School small java project :school::school:(2019)
+#School small java project :school::school:(2019)
 
 ##Clone the repository
 
